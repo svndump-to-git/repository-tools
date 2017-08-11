@@ -11,3 +11,6 @@ scripts/svn-tools
 *.swp
 *~
 /target
+.idea
+*.iml
+*/target

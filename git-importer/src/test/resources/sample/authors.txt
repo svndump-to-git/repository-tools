@@ -1,2 +1,0 @@
-mike = Test Mike User <test@kuali.org>
-mike\ = Test Mike Slash User <test-slash@kuali.org>
